@@ -62,4 +62,4 @@ Screenshots
 ![Untitled](https://user-images.githubusercontent.com/74669749/205365446-cb92c08b-aa60-4f16-9fa7-241b412c5a5b.png)
 ![2](https://user-images.githubusercontent.com/74669749/205368513-375b2fa6-7dc4-4c0e-9983-0da8805cdc72.png)
 
-https://www.buymeacoffee.com/Pyrosec
+[!["Support a caffeine addict"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Pyrosec)
