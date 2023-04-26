@@ -1,16 +1,8 @@
-```
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74669749/234545287-3e183feb-db3b-4c59-8e6e-d47e2b2b631b.png" width="600">
+</p>
 
- ██▓ ▄▄▄       ███▄ ▄███▓ ▄▄▄        ▄████  ██▓ ▄████▄  
-▓██▒▒████▄    ▓██▒▀█▀ ██▒▒████▄     ██▒ ▀█▒▓██▒▒██▀ ▀█  
-▒██▒▒██  ▀█▄  ▓██    ▓██░▒██  ▀█▄  ▒██░▄▄▄░▒██▒▒▓█    ▄ 
-░██░░██▄▄▄▄██ ▒██    ▒██ ░██▄▄▄▄██ ░▓█  ██▓░██░▒▓▓▄ ▄██▒
-░██░ ▓█   ▓██▒▒██▒   ░██▒ ▓█   ▓██▒░▒▓███▀▒░██░▒ ▓███▀ ░
-░▓   ▒▒   ▓▒█░░ ▒░   ░  ░ ▒▒   ▓▒█░ ░▒   ▒ ░▓  ░ ░▒ ▒  ░
- ▒ ░  ▒   ▒▒ ░░  ░      ░  ▒   ▒▒ ░  ░   ░  ▒ ░  ░  ▒   
- ▒ ░  ░   ▒   ░      ░     ░   ▒   ░ ░   ░  ▒ ░░        
- ░        ░  ░       ░         ░  ░      ░  ░  ░ ░      
-                                               ░        
-```
+---
 IAMagic scans and enumerates AWS access credentials and displays information like all the permissions policies attached to the account, buckets, running instances etc.
 
 
